@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 import time
-
+//
 class Coords:
     def __init__( 
             self, 
